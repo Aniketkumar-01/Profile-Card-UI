@@ -16,7 +16,8 @@ A sleek and modern **Profile Card UI** built using **HTML & CSS**, featuring a *
 
 ## 📸 Screenshot
 
-![Profile Card UI](./Screenshot.png)  
+![Profile Car![Screenshot 2025-03-29 144112](https://github.com/user-attachments/assets/cfabc145-d8d9-4d3c-940d-bcf2f6ab235c)
+d UI](./)  
 *Dark-themed profile card with interactive elements*
 
 ---
